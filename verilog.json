@@ -439,4 +439,10 @@
 		"body": "endmodule",
 		"description": "endmodule"
 	},
+    
+    "assign": {
+        "prefix": "assign",
+        "body": "assign",
+        "description": "assign"
+    },
 }
